@@ -1,0 +1,8 @@
+Model: EfficientNetV2B0 (Transfer Learning)
+Dataset: Oxford-IIIT Pet (37 classes)
+Batch Size: 16
+Phase 1 Epochs: 10
+Phase 2 Epochs: 10
+
+FINAL TEST ACCURACY: 92.45%
+FINAL TEST LOSS: 0.2579
