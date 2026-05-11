@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 WHAT YOU'LL GET 🙌☢
+## 📋 WHAT YOU'LL GET 🙌
 
 By the end, you'll have:
 - ✅ A trained model with ~90-95% accuracy
